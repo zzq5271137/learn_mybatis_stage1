@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba912a66-4ce4-40bf-8866-70bc5a2ac9c6" name="Default Changelist" comment="" />
+    <list default="true" id="ba912a66-4ce4-40bf-8866-70bc5a2ac9c6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/out/production/Learn_Mybatis_stage1/com/mycomp/mybatis/test/MyTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn_Mybatis_stage1/com/mycomp/mybatis/test/MyTest2.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +57,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Y3H6YvOYa5Ub6uD9Yt34YQ4IFC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -276,8 +282,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.MyTest2.test2" />
-        <item itemvalue="JUnit.MyTest2.test1" />
         <item itemvalue="JUnit.MyTest1.test6" />
+        <item itemvalue="JUnit.MyTest2.test1" />
         <item itemvalue="JUnit.MyTest1.test5" />
         <item itemvalue="JUnit.MyTest1.test4" />
       </list>
@@ -307,6 +313,9 @@
       <updated>1582164182402</updated>
       <workItem from="1582164183697" duration="10087000" />
       <workItem from="1582180069029" duration="1558000" />
+      <workItem from="1582182399911" duration="16000" />
+      <workItem from="1582182429215" duration="46000" />
+      <workItem from="1582214376454" duration="32000" />
     </task>
     <servers />
   </component>
@@ -330,26 +339,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="570" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582164405703" />
-    <state width="1493" height="350" key="GridCell.Tab.0.bottom" timestamp="1582181627752">
+    <state width="1493" height="350" key="GridCell.Tab.0.bottom" timestamp="1582214408244">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="350" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582181627752" />
-    <state width="1493" height="350" key="GridCell.Tab.0.center" timestamp="1582181627752">
+    <state width="1493" height="350" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582214408244" />
+    <state width="1493" height="350" key="GridCell.Tab.0.center" timestamp="1582214408244">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="350" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582181627752" />
-    <state width="1493" height="350" key="GridCell.Tab.0.left" timestamp="1582181627752">
+    <state width="1493" height="350" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582214408244" />
+    <state width="1493" height="350" key="GridCell.Tab.0.left" timestamp="1582214408244">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="350" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582181627752" />
-    <state width="1493" height="350" key="GridCell.Tab.0.right" timestamp="1582181627752">
+    <state width="1493" height="350" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582214408244" />
+    <state width="1493" height="350" key="GridCell.Tab.0.right" timestamp="1582214408244">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="350" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582181627752" />
-    <state x="270" y="0" key="SettingsEditor" timestamp="1582164408399">
+    <state width="1493" height="350" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582214408244" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1582214405841">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582164408399" />
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582214405841" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1582164303298">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
