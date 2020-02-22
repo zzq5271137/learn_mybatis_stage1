@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba912a66-4ce4-40bf-8866-70bc5a2ac9c6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/Learn_Mybatis_stage1/com/mycomp/mybatis/test/MyTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn_Mybatis_stage1/com/mycomp/mybatis/test/MyTest2.class" afterDir="false" />
-    </list>
+    <list default="true" id="ba912a66-4ce4-40bf-8866-70bc5a2ac9c6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -316,6 +314,7 @@
       <workItem from="1582182399911" duration="16000" />
       <workItem from="1582182429215" duration="46000" />
       <workItem from="1582214376454" duration="32000" />
+      <workItem from="1582344213124" duration="23000" />
     </task>
     <servers />
   </component>
