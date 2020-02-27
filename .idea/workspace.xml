@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba912a66-4ce4-40bf-8866-70bc5a2ac9c6" name="Default Changelist" comment="" />
+    <list default="true" id="ba912a66-4ce4-40bf-8866-70bc5a2ac9c6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/课件/MyBatis.xmind" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课件/Mybatis.pptx" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -319,6 +322,7 @@
       <workItem from="1582463144555" duration="66000" />
       <workItem from="1582615245814" duration="21000" />
       <workItem from="1582800413519" duration="84000" />
+      <workItem from="1582814742935" duration="1000" />
     </task>
     <servers />
   </component>
